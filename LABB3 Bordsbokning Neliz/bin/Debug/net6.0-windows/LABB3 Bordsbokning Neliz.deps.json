@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LABB3 Bordsbokning Neliz/1.0.0": {
+        "runtime": {
+          "LABB3 Bordsbokning Neliz.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LABB3 Bordsbokning Neliz/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

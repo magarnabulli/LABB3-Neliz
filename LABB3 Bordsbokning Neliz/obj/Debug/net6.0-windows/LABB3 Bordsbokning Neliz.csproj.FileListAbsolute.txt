@@ -1,0 +1,42 @@
+C:\Users\ozkal\source\repos\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\bin\Debug\net6.0-windows\LABB3 Bordsbokning Neliz.exe
+C:\Users\ozkal\source\repos\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\bin\Debug\net6.0-windows\LABB3 Bordsbokning Neliz.deps.json
+C:\Users\ozkal\source\repos\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\bin\Debug\net6.0-windows\LABB3 Bordsbokning Neliz.runtimeconfig.json
+C:\Users\ozkal\source\repos\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\bin\Debug\net6.0-windows\LABB3 Bordsbokning Neliz.dll
+C:\Users\ozkal\source\repos\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\bin\Debug\net6.0-windows\LABB3 Bordsbokning Neliz.pdb
+C:\Users\ozkal\source\repos\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\obj\Debug\net6.0-windows\LABB3 Bordsbokning Neliz.csproj.AssemblyReference.cache
+C:\Users\ozkal\source\repos\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ozkal\source\repos\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ozkal\source\repos\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\obj\Debug\net6.0-windows\LABB3 Bordsbokning Neliz_MarkupCompile.cache
+C:\Users\ozkal\source\repos\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\obj\Debug\net6.0-windows\LABB3 Bordsbokning Neliz_MarkupCompile.lref
+C:\Users\ozkal\source\repos\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ozkal\source\repos\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\obj\Debug\net6.0-windows\LABB3 Bordsbokning Neliz.g.resources
+C:\Users\ozkal\source\repos\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\obj\Debug\net6.0-windows\LABB3 Bordsbokning Neliz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozkal\source\repos\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\obj\Debug\net6.0-windows\LABB3 Bordsbokning Neliz.AssemblyInfoInputs.cache
+C:\Users\ozkal\source\repos\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\obj\Debug\net6.0-windows\LABB3 Bordsbokning Neliz.AssemblyInfo.cs
+C:\Users\ozkal\source\repos\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\obj\Debug\net6.0-windows\LABB3 Bordsbokning Neliz.csproj.CoreCompileInputs.cache
+C:\Users\ozkal\source\repos\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\obj\Debug\net6.0-windows\LABB3 Bordsbokning Neliz.dll
+C:\Users\ozkal\source\repos\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\obj\Debug\net6.0-windows\refint\LABB3 Bordsbokning Neliz.dll
+C:\Users\ozkal\source\repos\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\obj\Debug\net6.0-windows\LABB3 Bordsbokning Neliz.pdb
+C:\Users\ozkal\source\repos\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\obj\Debug\net6.0-windows\LABB3 Bordsbokning Neliz.genruntimeconfig.cache
+C:\Users\ozkal\source\repos\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\obj\Debug\net6.0-windows\ref\LABB3 Bordsbokning Neliz.dll
+C:\Users\ozkal\Documents\Skola\Programmering med C#\LABB\LABB3\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\bin\Debug\net6.0-windows\LABB3 Bordsbokning Neliz.exe
+C:\Users\ozkal\Documents\Skola\Programmering med C#\LABB\LABB3\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\bin\Debug\net6.0-windows\LABB3 Bordsbokning Neliz.deps.json
+C:\Users\ozkal\Documents\Skola\Programmering med C#\LABB\LABB3\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\bin\Debug\net6.0-windows\LABB3 Bordsbokning Neliz.runtimeconfig.json
+C:\Users\ozkal\Documents\Skola\Programmering med C#\LABB\LABB3\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\bin\Debug\net6.0-windows\LABB3 Bordsbokning Neliz.dll
+C:\Users\ozkal\Documents\Skola\Programmering med C#\LABB\LABB3\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\bin\Debug\net6.0-windows\LABB3 Bordsbokning Neliz.pdb
+C:\Users\ozkal\Documents\Skola\Programmering med C#\LABB\LABB3\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\obj\Debug\net6.0-windows\LABB3 Bordsbokning Neliz.csproj.AssemblyReference.cache
+C:\Users\ozkal\Documents\Skola\Programmering med C#\LABB\LABB3\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\ozkal\Documents\Skola\Programmering med C#\LABB\LABB3\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\ozkal\Documents\Skola\Programmering med C#\LABB\LABB3\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\obj\Debug\net6.0-windows\LABB3 Bordsbokning Neliz_MarkupCompile.cache
+C:\Users\ozkal\Documents\Skola\Programmering med C#\LABB\LABB3\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\obj\Debug\net6.0-windows\LABB3 Bordsbokning Neliz_MarkupCompile.lref
+C:\Users\ozkal\Documents\Skola\Programmering med C#\LABB\LABB3\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\ozkal\Documents\Skola\Programmering med C#\LABB\LABB3\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\obj\Debug\net6.0-windows\LABB3 Bordsbokning Neliz.g.resources
+C:\Users\ozkal\Documents\Skola\Programmering med C#\LABB\LABB3\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\obj\Debug\net6.0-windows\LABB3 Bordsbokning Neliz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozkal\Documents\Skola\Programmering med C#\LABB\LABB3\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\obj\Debug\net6.0-windows\LABB3 Bordsbokning Neliz.AssemblyInfoInputs.cache
+C:\Users\ozkal\Documents\Skola\Programmering med C#\LABB\LABB3\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\obj\Debug\net6.0-windows\LABB3 Bordsbokning Neliz.AssemblyInfo.cs
+C:\Users\ozkal\Documents\Skola\Programmering med C#\LABB\LABB3\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\obj\Debug\net6.0-windows\LABB3 Bordsbokning Neliz.csproj.CoreCompileInputs.cache
+C:\Users\ozkal\Documents\Skola\Programmering med C#\LABB\LABB3\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\obj\Debug\net6.0-windows\LABB3 Bordsbokning Neliz.dll
+C:\Users\ozkal\Documents\Skola\Programmering med C#\LABB\LABB3\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\obj\Debug\net6.0-windows\refint\LABB3 Bordsbokning Neliz.dll
+C:\Users\ozkal\Documents\Skola\Programmering med C#\LABB\LABB3\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\obj\Debug\net6.0-windows\LABB3 Bordsbokning Neliz.pdb
+C:\Users\ozkal\Documents\Skola\Programmering med C#\LABB\LABB3\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\obj\Debug\net6.0-windows\LABB3 Bordsbokning Neliz.genruntimeconfig.cache
+C:\Users\ozkal\Documents\Skola\Programmering med C#\LABB\LABB3\LABB3 Bordsbokning Neliz\LABB3 Bordsbokning Neliz\obj\Debug\net6.0-windows\ref\LABB3 Bordsbokning Neliz.dll
